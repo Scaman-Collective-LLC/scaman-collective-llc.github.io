@@ -1,1 +1,2 @@
 # scamancollective
+# scamancollective.github.io
